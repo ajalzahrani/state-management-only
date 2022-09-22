@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.display-vote {
+  border-right: 4px solid rgb(15, 15, 28);
+  margin-right: 20px;
+  padding-right: 10px;
+}
+
+.contorl-vote {
+  display: flex;
+  flex-direction: row;
+}
